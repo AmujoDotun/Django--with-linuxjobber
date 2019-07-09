@@ -1,0 +1,1 @@
+This application is a django application which is to deal with polls. more description is coming up later, stay turn.
